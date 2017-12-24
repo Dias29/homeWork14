@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CardGameHomeWork
+namespace GameLibrary
 {
-    class Suit
+    public class Game
     {
     }
 }

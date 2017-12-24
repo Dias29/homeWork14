@@ -1,1 +1,8 @@
 d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\CardGameHomeWork\bin\Debug\CardGameHomeWork.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\CardGameHomeWork\bin\Debug\CardGameHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\CardGameHomeWork\bin\Debug\CardGameHomeWork.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\CardGameHomeWork\obj\Debug\CardGameHomeWork.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\CardGameHomeWork\obj\Debug\CardGameHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\CardGameHomeWork\obj\Debug\CardGameHomeWork.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\CardGameHomeWork\bin\Debug\GameLibrary.dll
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\CardGameHomeWork\bin\Debug\GameLibrary.pdb

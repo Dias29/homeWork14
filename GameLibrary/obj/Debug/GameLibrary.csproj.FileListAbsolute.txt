@@ -1,0 +1,5 @@
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\GameLibrary\bin\Debug\GameLibrary.dll
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\GameLibrary\bin\Debug\GameLibrary.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\GameLibrary\obj\Debug\GameLibrary.dll
+d:\users10\asus\documents\visual studio 2015\Projects\CardGameHomeWork\GameLibrary\obj\Debug\GameLibrary.pdb
